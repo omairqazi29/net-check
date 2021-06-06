@@ -1,2 +1,4 @@
-# net-check
-Internet Status Checker for Liquid Galaxy
+# Internet Status Checker for Liquid Galaxy
+
+## Usage instructions
+` ./check-net.sh`
