@@ -1,4 +1,4 @@
-# Internet Status Checker for Liquid Galaxy
+# Internet Status Checker
 
 ## Usage instructions
 ` ./check_net.sh`
